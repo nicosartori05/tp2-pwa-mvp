@@ -13,3 +13,4 @@ ADVERTENCIAS:
 - Dentro de la app, por un error de la API no encuentra el superheroe SPIDER MAN.
 - Todas las busquedas deben ser con el nombre exactamente identico, respetando espacios entre palabras y tambien respetando el idioma INGLES, por ej:
   si se desea buscar al CAPITAN AMERICA, la busqueda debe ser CAPTAIN AMERICA.
+- Los botones que figuran en el banner principal de la app para descargarla desde play store son solo de caracter ilustrativo.
